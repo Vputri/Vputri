@@ -1,8 +1,7 @@
 ### Hi, I am Vika Putri Ariyanti👋
+I am a software engineer in Indonesia. I have experience as a Fullstack developer with skills in React.js, Next.js, and Vue for Frontend. While in Backend, I have skills in Django and Golang. I am interested in web programming and machine learning especially NLP.
 
-I am interested in Machine Learning and Web Programming.
-
-Website : http://vpa.pythonanywhere.com/
+Website : http://vpa.pythonanywhere.com/ or https://vikaputri.vercel.app/
 
 Linkedin : https://www.linkedin.com/in/vikaputriariyanti
 
